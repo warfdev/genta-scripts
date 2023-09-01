@@ -1,3 +1,11 @@
+--[[
+	SCRIPT CODED BY git: warfdev (me :3) discord: 9mocha.
+	[NOT TESTED]
+        supported vers. 4.34 / 4.35 ..
+	proxy vers. 1.0
+	do not edit anything.
+]]--
+
 -- configuration
 local proxy = {}
 local command = {}
