@@ -1,2 +1,2 @@
 # genta-scripts
-examplw scripts
+example scripts
